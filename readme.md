@@ -11,6 +11,8 @@ BOM (besides voron screws/nuts/heat inserts etc.):
 - 1x 4010 axial fan
 - 4x M3x12/16 din912 (4010 axial fan)
 
+**No X or Y offsets change needed** compared to standard Voron AB toolhead 
+
 
 This project is based on:
 https://github.com/VoronDesign
